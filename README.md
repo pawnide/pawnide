@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Bem-vindo ao Pawn IDE!
 
-<!--
-**pawnide/pawnide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou o DeviceBlack, criador do **Pawn IDE**, um ambiente de desenvolvimento mobile completo para linguagem Pawn, focado em SA-MP e open.mp.
 
-Here are some ideas to get you started:
+> Desenvolvimento Android nativo com Java. Compilação interna. Editor e ferramentas feitos do zero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 Projeto principal
+[👉 Acesse o repositório do projeto Pawn IDE](https://github.com/pawnide/app)
+
+## 🧩 Principais recursos planejados:
+- Editor nativo
+- Autocompletar inteligente
+- Compilador interno 3.10.10 / 3.10.11
+- Traduções em PT 🇧🇷, EN 🇺🇸, ES 🇪🇸
+- Gerenciador de includes
+- Detecção de erros e avisos em tempo real
+
+## 📢 Status
+> Em desenvolvimento ativo.
+
+---
+
+**Siga para atualizações e novidades!**
